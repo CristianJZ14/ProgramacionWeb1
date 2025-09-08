@@ -1,0 +1,13 @@
+body{ background-color: grey
+
+}
+.parrafo1{
+    background-color: aquamarine;
+    font-size: 3em;
+
+}
+.parrafo2{
+    text-align: justify;
+    font-size: 4em;
+    font-style: italic;
+}
